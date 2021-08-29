@@ -1,0 +1,14 @@
+# Path to blooger backup xml.
+bloggerBackup = "data/blog-08-25-2021.xml"
+
+# (Optional) Output destination, Default is "posts/"
+destination = "posts/blogger"
+
+# (Optional) Skip Draft posts. Default is false
+skipDraft = true
+
+# (Optional) An additional tag for imported posts.
+importedTag = "Repost"
+
+# (Optional) Additional frontmatter metadata for a post.
+frontmatter = { postSource = "blogger", showToc = false }

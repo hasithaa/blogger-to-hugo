@@ -1,0 +1,8 @@
+[package]
+name = "blogger2hugo"
+org = "hasitha"
+version = "0.1.0"
+authors=["https://github.com/hasithaa"]
+
+[build-options]
+observabilityIncluded = true
